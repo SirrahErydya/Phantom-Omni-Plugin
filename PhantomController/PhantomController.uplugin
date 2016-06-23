@@ -1,0 +1,21 @@
+{
+	"FileVersion" : 3,
+ 
+		"FriendlyName" : "Phantom Omni Plugin",
+		"Version" : 1,
+		"VersionName" : "1.2",
+		"CreatedBy" : "kollasch@uni-bremen.de",
+		"EngineVersion" : 4.11,
+		"Description" : "Plugin to use the Phantom Omni Devices in Unreal",
+		"Category" : "Virtual Reality",
+ 
+		"Modules" :
+		[
+			{
+				"Name" : "PhantomController",
+				"Type" : "Runtime",
+				"LoadingPhase" : "PreDefault",
+				"WhitelistPlatforms" : [ "Win64", "Win32" ]
+			}
+		]
+}
