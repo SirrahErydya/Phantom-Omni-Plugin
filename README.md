@@ -3,7 +3,8 @@ This is a Game Plugin for Unreal Engine (developed and tested with UE 4.11)
 It allows you to use the Phantom Omni Devices (have a look at http://www.dentsable.com/haptic-phantom-omni.htm) in Unreal.
 This works only if you have installed the Devices and all necessary drivers.
 
-*Caution*
+**Caution**
+
 The code for this plugin is still pretty messy and only tested once on a Windows 7 machine. Please let me now if you want to use it and write me an email in case there are any problems: kollasch@uni-bremen.de
 
 ## Features
